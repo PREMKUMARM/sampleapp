@@ -1,1 +1,1 @@
-web: ./bin/www ionic serve
+web: ionic serve
